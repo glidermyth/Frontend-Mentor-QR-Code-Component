@@ -9,8 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/glidermyth/Frontend-Mentor-QR-Code-Component.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: https://glidermyth.github.io/Frontend-Mentor-QR-Code-Component/
 ### Built with
 
 - CSS custom properties
